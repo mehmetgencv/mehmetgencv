@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/mehmetgencv">
   <img align="left" alt="Mehmet Genc | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/mehmetgencv/">
+<a href="https://www.linkedin.com/in/mehmetgenccv/">
   <img align="left" alt="Mehmet's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
