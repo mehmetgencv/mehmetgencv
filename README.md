@@ -1,6 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
-<h3 align="center">I love to stay abreast of the latest trends in the technology world. I had been reading about Artificial Intelligence (AI) and Machine learning (ML) for quite some time now. I am aware of the importance of AI in our future. The concept that intrigues me most about AI is computer vision. Therefore, I aspire to contribute to the development of object detection systems. To achieve that, I believe that I need to extend my knowledge beyond the basic techniques, and that is where the specialization in Computation in Neural and Artificial Systems. AI and ML are courses that excite me most. I aim to continue the research and enrich myself in the same field to earn a Ph.D. and study robot decisions in diverse social settings, before moving again to the industry as an expert.</h3>
+<h3 align="center">Welcome to my GitHub account! I am a Python developer with a passion for back-end development. I have experience in developing web applications using Python and its popular web frameworks such as Django and Flask.
+
+Currently, I am expanding my skillset by learning Node.js and Express.js. You can find my projects related to Node.js and Express.js in my repository. I am also interested in learning new technologies and programming languages to improve my skills and deliver better solutions.
+
+You can find my Python projects in my repository. These projects include web scraping, data analysis, and image processing. You can also find some projects that I have developed as a hobby to improve my skills and explore new libraries and frameworks.
+
+I am always looking for new challenges and opportunities to improve my skills and gain new experiences. Feel free to check out my repository and contact me if you have any questions or if you are interested in collaborating on a project.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehmetgencv&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetgencv" /> </p>
 
