@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mehmet</h1>
 <h3 align="center">Welcome to my GitHub account! I am a Python developer with a passion for back-end development. I have experience in developing web applications using Python and its popular web frameworks such as Django and Flask.
 
-Currently, I am expanding my skillset by learning Node.js and Express.js. You can find my projects related to Node.js and Express.js in my repository. I am also interested in learning new technologies and programming languages to improve my skills and deliver better solutions.
+Currently, I am expanding my skillset by learning Java Spring Boot. You can find my projects related to Spring Boot in my repository. I am also interested in learning new technologies and programming languages to improve my skills and deliver better solutions.
 
 You can find my Python projects in my repository. These projects include web scraping, data analysis, and image processing. You can also find some projects that I have developed as a hobby to improve my skills and explore new libraries and frameworks.
 
