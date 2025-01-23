@@ -21,7 +21,8 @@
 
 - 📫 How to reach me **mehmetgencv@gmail.com**
 - 🌐 My Website: [mehmetgenc.net](https://www.mehmetgenc.net/)
-- 📄 Know about my experiences: [Download my resume](https://drive.google.com/file/d/1Cdq78lJbeYdg0AlIr8_CJ3yXvOlDP2Yz/view?usp=sharing)
+- 📄 Know about my experiences: [Download my resume](https://drive.google.com/file/d/1DErBlPVz8p7Dh6bdSDSaVw4ZOtMrseni/view?usp=sharing)
+- 
 
 <h3>Connect with me:</h3>
 <p>
